@@ -1,0 +1,12 @@
+<testcase xmlns="http://www.tdm.org/testcase">
+	<test application="mdot" create_date="2013-08-14" created_by="Jeswanth"
+		last_updated="2013-08-15" updated_by="Jeswanth">tc1</test>
+	<teststeps xmlns="http://www.tdm.org/teststeps">
+		<step xmlns="http://www.tdm.org/step" action="select_url"
+			control="browser" url="mdothome_url" />
+		<step xmlns="http://www.tdm.org/step" action="set"
+			data_input="/Users/a922998/TestEng/test-utaf/src/test/resources/xml/dataresource/tc1-sku-1430004.xml"
+			data_key="data" element_data="xpath" element_type="textbox"
+			xpath=".//*[@id='textfield']" />
+	</teststeps>
+</testcase>

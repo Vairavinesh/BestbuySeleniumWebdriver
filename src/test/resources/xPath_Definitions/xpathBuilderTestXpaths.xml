@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE pages [
+  <!ENTITY CASEINSENSATIVE "translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
+			'abcdefghijklmnopqrstuvwxyz')">
+		
+  <!ENTITY contentbase "//*[@class='content_block']//*[contains(@class, 'link') and contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'), '~nameVar~')]">
+ <!ENTITY searchbase "//*[@id='content']">
+ <!ENTITY bannerbase "//*[@class='~idVar~Banner']">
+ 
+]>
+<pages>
+	<page name="search">
+	</page>
+	<page name="signin">
+	</page>
+	<page name="cart">
+		<xpath id="counter" footerLoc="/footer/*" headerLoc="[contains(@id, 'header')]">//*~locationVar~/*[@class='cart-counter']</xpath>
+		<xpath id="subtotal" footerLoc="[contains(@id,'bottom')]" headerLoc="[contains(@id,'top')]">//*~locationVar~//*[contains(@class,'subtotal')]"</xpath> 
+		<xpath id="togglelink">//*[contains(@id,'cart')]//*[contains(@id,'shiporpickup')]/../a</xpath>
+		<xpath id="quantity">//*[@id='~idVar~-list']//*</xpath>
+	</page>
+	<page name="mdothome">
+	</page>
+	<page name="common">
+		<xpath id="text" footerLoc="[contains(@id,'bottom')]" headerLoc="[contains(@id,'top')]">//*~locationVar~//*[contains(@class, '~idVar~')]</xpath>
+		<xpath id='link' footerLoc="/footer/*" headerLoc="[contains(@id, 'header')]">//*~locationVar~//*[(@class='home_personalize' and contains(text(),'~idVar~')) or (@class='link' and contains(text(), '~idVar~')) or contains(@class, '~idVar~_message')) or (contains(@class,'~locationVar~') and	contains(&CASEINSENSATIVE;, '~idVar~') or (contains(@class,'~locationVar~') and contains(&CASEINSENSATIVE;, '~idVar~'))]</xpath>
+		<xpath id='textbox' footerLoc="/footer/*" headerLoc="[contains(@id, 'header')]">//*~locationVar~//*[(@type='text' and contains(@class, '~idVar~')) or contains(@name,'~idVar~')]</xpath>
+		<xpath id='button' footerLoc="/footer/*" headerLoc="[contains(@id, 'header')]">//*~locationVar~//*[(contains(@class, '~idVar~') and (contains(@class, 'submit') or contains(@class, 'input'))) or (contains(@class, '~idVar~') and @type='button') or (contains(@class, '-name') and contains(text(), '~idVar~')) or (contains(@name, '~idVar~') and contains(@onclick, 'Javascript'))or @href='#~idVar~']</xpath>
+		<xpath id="label" footerLoc="[contains(@id,'bottom')]" headerLoc="[contains(@id,'top')]">//*~locationVar~//*[contains(text(), '~idVar~')]</xpath>
+	</page>
+</pages>

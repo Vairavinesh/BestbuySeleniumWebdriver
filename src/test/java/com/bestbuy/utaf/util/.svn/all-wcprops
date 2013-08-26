@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dotcom/!svn/ver/165557/test-data-management/trunk/test-utaf/src/test/java/com/bestbuy/utaf/util
+END
+DriverPropsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/src/test/java/com/bestbuy/utaf/util/DriverPropsTest.java
+END
+LocalFileIOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/src/test/java/com/bestbuy/utaf/util/LocalFileIOTest.java
+END
+HtmlCleanTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dotcom/!svn/ver/165557/test-data-management/trunk/test-utaf/src/test/java/com/bestbuy/utaf/util/HtmlCleanTest.java
+END

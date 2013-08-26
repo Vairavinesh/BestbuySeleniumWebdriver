@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dotcom/!svn/ver/166537/test-data-management/trunk/test-utaf/src/test/resources/xml/testcase
+END
+clickTestCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dotcom/!svn/ver/166537/test-data-management/trunk/test-utaf/src/test/resources/xml/testcase/clickTestCase.xml
+END
+setTestCase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dotcom/!svn/ver/166302/test-data-management/trunk/test-utaf/src/test/resources/xml/testcase/setTestCase.xml
+END
+testcase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dotcom/!svn/ver/166302/test-data-management/trunk/test-utaf/src/test/resources/xml/testcase/testcase.xml
+END

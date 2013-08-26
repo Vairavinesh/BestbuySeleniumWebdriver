@@ -1,0 +1,6 @@
+<testcase xmlns="http://www.tdm.org/testcase" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<test application="mdot" function="true" />
+	<xi:include
+		href="/xml/teststeps/tcmain_steps.xml"
+		name="teststeps" />
+</testcase>

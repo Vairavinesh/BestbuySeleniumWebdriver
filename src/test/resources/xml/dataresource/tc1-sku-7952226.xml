@@ -1,0 +1,7 @@
+<dataresource xmlns="http://www.tdm.org/dataresource"
+	xmlns:xi="http://www.w3.org/2001/XInclude">
+	<description dataType="hardcoded">Sku 7952226</description>
+	<xi:include
+		href="/Users/a922998/TestEng/test-utaf/src/test/resources/xml/data/tc1-sku-7952226.xml"
+		name="data" />
+</dataresource>

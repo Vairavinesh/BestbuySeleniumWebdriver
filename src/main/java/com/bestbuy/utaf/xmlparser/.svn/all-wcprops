@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dotcom/!svn/ver/167478/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/xmlparser
+END
+XpathXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/xmlparser/XpathXMLParser.java
+END
+PageSourceDomParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dotcom/!svn/ver/167478/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/xmlparser/PageSourceDomParser.java
+END
+VTDXMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/xmlparser/VTDXMLParser.java
+END
+XMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/dotcom/!svn/ver/166288/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/xmlparser/XMLParser.java
+END

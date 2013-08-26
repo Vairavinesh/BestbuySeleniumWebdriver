@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+	<entry key="QA1" active="true">
+		<mdothome_url>http://m.qa.bestbuy.com/m/e</mdothome_url>
+		<db_url>jdbc:oracle:thin:@dldolsdb01:1525:od1pcm01cle:thin:@dldolsdb01:1525:od1pcm01ty</db_url>
+		<signin_url>https://ssl.m.bestbuy.com/m/e/registration/signin.jsp?loadOptimizedCSS=true</signin_url>
+		<pdp_url>http://m.qa.bestbuy.com/m/e/product/detail.jsp?skuId=~var~</pdp_url>
+	</entry>
+	<entry key="QA2" active="false">
+		<mdothome_url>http://m-qa2.bestbuy.com/m/b/</mdothome_url>
+		<pdp_url>http://m-qa2.bestbuy.com/m/e/product/detail.jsp?skuId=~var~</pdp_url>
+		<db_url>jdbc:oracle:thin:@dlqolsdb01:1531:oq3atg_01cle:thin:@dlqolsdb01:1531:oq3atg_01ty></db_url>
+	</entry>
+</properties>

@@ -1,0 +1,1177 @@
+<html>
+	<body onunload=""><!-- DNM:For In-store Clearance Item, Code Changes Start --><!DOCTYPE
+HTML><!-- bbmdotp-app34/dlpmdtapp106-13.14.127 --><!-- Start Productdetails.jsp -->
+		<head>
+			<title>Asus -
+				15.6&#34; Laptop - 4GB Memory - 500GB Hard Drive -
+				White - X502CA-BI30704A- Best Buy
+			</title>
+			<link
+				href="http://images.bestbuy.com:80/BestBuy_US/mobile/style/m_common-min.css"
+				rel="stylesheet" type="text/css" media="handheld,screen" />
+			<link
+				href="http://images.bestbuy.com:80/BestBuy_US/mobile/style/main_enhanced_optimized-min.css"
+				rel="stylesheet" type="text/css" media="handheld,screen" />
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/jquery-1.4.2.min.js"
+				type="text/javascript">
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/pdp-min.js"
+				type="text/javascript">
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/swipe-min.js"
+				type="text/javascript">
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/clickstream-min.js"
+				type="text/javascript">
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/jquery.tmpl.min.js"
+				type="text/javascript">
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/PersonalizationService-min.js"
+				type="text/javascript">
+			</script>
+			<meta name="keywords" content="" />
+			<meta name="description" content="ASUS 15.6" Laptop - GB Memory -
+				GB Hard Drive: 1 display ; webcam ; HDMI output ; GB hard drive ; GB
+				DDR3 memory ; high-speed wireless LAN ; Secure Digital / Secure
+				Digital High Capacity card slot " />
+			<SCRIPT language="JavaScript">function
+				fnAddToCart(storeId) {var frmName=
+				'frmAddToCart'+storeId;var frmObject =
+				document.getElementById(frmName);frmObject.submit();}
+			</SCRIPT>
+		</head>
+		<body><!-- B:750 -->
+			<script>var urls='';var brwsrUrlValue =
+				(window.location != window.parent.location) ?
+				document.referrer: document.location;var brwsrUrl
+				= new String(brwsrUrlValue);String.prototype.trim
+				= function(){return (this.replace(/^[\s\xA0]+/,
+				"").replace(/[\s\xA0]+$/,
+				""));}String.prototype.startsWith = function
+				(urlArr) {for (var j = 0; j < urlArr.length; j++)
+				{var domainName=urlArr[j].trim()+'/';if
+				(this.indexOf(domainName) == 0) {return
+				true;}}return false;}urls = '[dsp01tlfsql,
+				www.bestbuy.com, kiosk.bestbuy.com,
+				dsp02tlfsql]';validateDomainList(brwsrUrl,urls);function
+				validateDomainList(brwsrUrl,urls){if(urls !=
+				''){var allowedUrlArray= new Array();urls =
+				urls.substring(1,urls .length-1);allowedUrlArray=
+				urls.split(",");brwsrUrl =
+				brwsrUrl.substring(brwsrUrl.indexOf("://")+3,brwsrUrl.length);if(allowedUrlArray
+				!= 'undefined' &&
+				!brwsrUrl.startsWith(allowedUrlArray)){if (top !=
+				self) {top.location=location;}}}}
+			</script><!-- E:750 -->
+			<form
+				action="/m/e/global/nav/;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106#">
+				<input name="_dyncharset" value="ISO-8859-1" type="hidden"></input>
+				<input name="_dynSessConf" value="-4097520824905334769" type="hidden"></input>
+				<header id="masthead">
+					<meta name="viewport"
+						content="width=device-width,initial-scale=1,maximum-scale=1" />
+					<meta name="format-detection" content="telephone=no" />
+					<link rel="apple-touch-icon-precomposed"
+						href="http://images.bestbuy.com:80/BestBuy_US/mobile/images/apple-touch-icon-precomposed.png">
+						<link rel="apple-touch-icon-precomposed" sizes="72x72"
+							href="http://images.bestbuy.com:80/BestBuy_US/mobile/images/apple-touch-icon-72x72-precomposed.png">
+							<link rel="apple-touch-icon-precomposed" sizes="114x114"
+								href="http://images.bestbuy.com:80/BestBuy_US/mobile/images/apple-touch-icon-114x114-precomposed.png">
+								<a href='/m/e/digital/' id="branding"></a>
+								<ul class="menu">
+									<li class="icon-link" id="menu-link">
+										<a href="#header-nav">Menu</a>
+									</li>
+									<li class="icon-link" id="search-link">
+										<a href="#header-search">Search</a>
+									</li>
+									<li id="updateCart" class="cart-link">
+										<a href='#' id="cart"
+											onclick="IsCookiesEnabled_link('/m/e/cart/cart.jsp?ev=scView')"></a>
+									</li>
+								</ul>
+								<br class="brClear" />
+				</header>
+				<a name="tabmenu"></a>
+				<nav id="nav" role="navigation">
+					<ul id="header-nav">
+						<li><!-- 12185812188097408826435731 -->
+							<a id="product_dropdown" onclick="showhide('product_menu')">
+								Products
+								<select onchange="window.location.href=this.value" name="category">
+									<option selected="selected" value="#">Select a Category
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0100000">
+										TV &amp; Home Theater</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0200000">
+										Audio &amp; MP3</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0800000">
+										Mobile Phones
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0400000">
+										Cameras &amp; Camcorders</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0500000">
+										Computers &amp; Tablets</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0300000">
+										Car&sbquo;
+										Marine &amp; GPS
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=pcmcat245100050028">
+										Office
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=pcmcat242800050021">
+										Health &amp; Fitness</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0600000">
+										Movies &amp; Music</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0207000">
+										Musical Instruments
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0700000">
+										Video Games
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=pcmcat248700050021">
+										Home
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=abcat0900000">
+										Appliances
+									</option>
+									<option
+										value="http://m.bestbuy.com/m/e/catalog/category.jsp?id=cat09000">
+										Gift Cards
+									</option>
+								</select>
+							</a> <!-- /1218809740882 -->
+						</li>
+						<li>
+							<a href ">
+								Deals
+								<select name="deals"
+									onchange="window.location.href=this.form.deals.options[this.form.deals.selectedIndex].value">
+									<option value="" selected="selected">Select a
+										Category
+									</option>
+									<option value='http://mdeals.bestbuy.com/categories'>Weekly
+										Deals
+									</option>
+									<option value='/m/e/digital/DealsNearMeWebPage'>In-Store
+										Clearance and Open-Box
+									</option>
+									<option value='/m/e/deals/deals.jsp'>Deal of the
+										Day
+									</option>
+									<option value='/m/e/digital/offers'>Featured
+										Offers
+									</option>
+								</select>
+							</a>
+						</li>
+						<li>
+							<a href="/m/e/stores/find.jsp">Stores</a>
+						</li>
+						<li>
+							<a href='#' onclick="IsCookiesEnabled_link('/m/e/digital/myAccount')">
+								My Account</a>
+						</li>
+					</ul>
+				</nav>
+				<script
+					src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/dirp-min.js"
+					type="text/javascript">
+				</script>
+				<script
+					src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/app-min.js"
+					type="text/javascript">
+				</script>
+			</form>
+			<div id="errorMsg" class="disp_none">
+				<div id="inline-error">
+					<span class="error">Please
+						choose category and try
+						again.
+					</span>
+				</div>
+			</div>
+			<div id="noSearch" class="disp_none">
+				<div id="inline-error">
+					<span class="error">Please enter keyword(s) or item
+						number and try again.
+					</span>
+				</div>
+			</div>
+			<div id="header-search" class="btm_margin">
+				<form action='/m/e/search/results.jsp#searchresultsdiv' name="searchform"
+					method="post" class="search-form Padd0">
+					<div class="search-field-margin-correct">
+						<input type="search" id="textfield" name="st"
+							autocapitalize="off" autocomplete="off" autocorrect="off"
+							placeholder="Search BestBuy.com" class="search-field" />
+						<a class="search-submit" onclick="searchSubmit();" href="#"></a>
+						<input type="hidden" value="1" name="cp" id="cp" />
+						<input type="hidden" value='' name="sp" id="sp" />
+						<input type="hidden" value="Y" name="scValue" />
+						<input type="hidden" value="Global" name="sc" id="sc" />
+						<input type="hidden" value="event41,event1" name="ev" />
+						<input type="hidden" value="Enhanced" name="channel" />
+						<input type="hidden" value="true" name="search" />
+						<input type="hidden" value="yes" name="usearch" />
+						<input type="hidden" value="All
+Categories" name="usc" />
+						<input type="hidden" name="clearImgUrl" id="clearImgUrl"
+							value="http://images.bestbuy.com:80/BestBuy_US/mobile/images/css_sprite.png">
+					</div>
+				</form>
+			</div>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/searchTxtBox-min.js"
+				type="text/javascript">
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/home-min.js"
+				type="text/javascript">
+			</script>
+			<script>var
+				abskuid = '8964045';
+			</script>
+			<script>var
+				abproducttype = 'hardGoodPrd';var abparentcatid =
+				'abcat0502000';var abubercatid =
+				'abcat0500000';
+			</script>
+			<script>var abretekdeptid
+				= '6';var abclassid = '140';var absubclassid =
+				'233';
+			</script>
+			<section id="content-wrapper">
+				<!-- DNM:For In-store Clearance Item, Code Changes Start --><!-- DNM:For In-store Clearance Item, Code Changes End -->
+				<div class="hproduct"></div>
+				<div class="pdp-product-title bold Arial">Asus -
+					15.6&#34; Laptop - 4GB Memory - 500GB Hard Drive -
+					White
+				</div>
+				<div class="sku Color_Features
+Arial">
+					<strong>Model:</strong>
+					X502CA-BI30704A&nbsp;&bull;&nbsp;
+					<strong>SKU:</strong>
+					8964045
+				</div>
+				<div class="ratings">
+					<div class="rating-stars ">
+						<div class="rating-filler" style="width: 76.0% "></div>
+						<div class="rating-mask"></div>
+					</div>
+					<a class="bby_blue
+fnt13px bold"
+						href="/m/e/product/reviews.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?skuId=8964045&pid=1218957873238">4&nbsp;Reviews
+					</a>
+				</div><!-- O.B changes --><!-- ends -->
+				<div class="pdp-product-gallery">
+					<div id="pdpslider">
+						<div class="LtSlider">
+							<span href="#" id="left-slider" class="slider-nav-left">Previous
+								Image
+							</span>
+						</div>
+						<div class="prodImgCell" id="prodImgCell">
+							<ul id="sliderul">
+								<li class="PdpImageIMG" style='display:block'>
+									<img
+										src="http://m-pisces.bbystatic.com/image/BestBuy_US/images/products/8964/8964045_sa.jpg;maxHeight=160;maxWidth=240;scaleUp=false"
+										id="productImgDet1" onError="fallBackToAkamai(event)" />
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo1"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo2"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo3"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo4"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo5"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo6"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo7"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo8"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo9"></span>
+								</li>
+								<li class="PdpImageIMG" style='display:none'>
+									<span id="imageNo10"></span>
+								</li>
+							</ul>
+							<ul>
+								<li class="disp_none LoadImg_margin" id="loading_image_pdp">
+									<img width="27" height="28" alt="Loading Data"
+										src="http://images.bestbuy.com:80/BestBuy_US/mobile/images/loader2.gif" />
+								</li>
+							</ul>
+						</div>
+						<div class="RtSlider">
+							<span href="#" id="right-slider" class="slider-nav-right">Next
+								Image
+							</span>
+						</div>
+					</div>
+					<div id='position' class="gallery-counter">
+						<span id="imagenumber">1</span>
+						of 11
+						<div class="MarBtm3"></div>
+						<div id="ccount" style="display:none">0</div>
+					</div>
+				</div>
+				<div id="buttons" class="overflw">
+					<div id="pdp-columns" class="pbot8">
+						<div id="pdp-left">
+							<ul class="Disc
+price_shown">
+								<li>
+									<span class="Color_Features Arial
+fnt13px PosRel-4">Free
+										Shipping
+									</span>
+								</li>
+							</ul>
+						</div>
+						<div id="pdp-right" class="product-tile">
+							<a href="http://m.bestbuy.com/m/e/promotion.jsp?id=pcmcat290400050000"
+								class="marginLeft-18px" style="max-width:100%"><!-- lowpricemessage JSP included -->
+								<img
+									src="http://images.bestbuy.com:80/BestBuy_US/mobile/images/priceGuarantee.png">
+							</a>
+							<script language="javascript">function
+								showPriceDetails(id){var
+								b=document.getElementById("priceValue"+id);var
+								a=document.getElementById("priceHidden"+id);a.style.display="none";b.style.display="block"}
+							</script><!-- PDP price block for contract skus -->
+							<ul class="priceBlock">
+								<li class="basePrice">$349.99</li>
+							</ul><!-- PDP price block for contract skus -->
+							<div class="clearboth"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+				<div id="buttons"><!-- MDOT-4426 starts --><!-- MDOT-4426 ends --><!-- O.B code for overlap sku removed from below code --><!-- ends --><!-- O.B code for overlap sku removed from below code --><!-- ends -->
+					<form id="formCart8964045" name="formCart8964045"
+						action="/m/e/cart/cart.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?_DARGS=/m/e/product/includes/pdp_addtocart.jsp"
+						method="POST">
+						<input name="_dyncharset" value="ISO-8859-1" type="hidden"></input>
+						<input name="_dynSessConf" value="-4097520824905334769"
+							type="hidden"></input>
+						<input id="checkForAlsoBought"
+							name="/atg/commerce/order/ShoppingCartModifier.checkForAlsoBought"
+							value="false" type="hidden">
+							<input
+								name="_D:/atg/commerce/order/ShoppingCartModifier.checkForAlsoBought"
+								value=" " type="hidden">
+								<input id="hasAccessories"
+									name="/atg/commerce/order/ShoppingCartModifier.hasAccessories"
+									value="false" type="hidden">
+									<input
+										name="_D:/atg/commerce/order/ShoppingCartModifier.hasAccessories"
+										value=" " type="hidden">
+										<input type="hidden" id="accessoriesAvailable8964045"
+											name="accessoriesAvailable8964045" value="false" />
+										<input type="hidden" id="alsoBoughtAvailable8964045"
+											name="alsoBoughtAvailable8964045" value="false" />
+										<input type="hidden" name="productIds" value="1218957873238" />
+										<input type="hidden" name="accessoriesPage" value="" />
+										<input type="hidden" name="skuIds" value="8964045" />
+										<input type="hidden" name="vol" value="PDP" />
+										<input type="hidden" name="ptype" value="PDP" />
+										<input type="hidden" name="sellerId" value="" />
+										<input
+											name="/atg/commerce/order/ShoppingCartModifier.addItemsToOrderErrorURL"
+											value="/m/e/product/detail.jsp?pid=1218957873238&skuId=8964045&ev=prodView"
+											type="hidden">
+											<input
+												name="_D:/atg/commerce/order/ShoppingCartModifier.addItemsToOrderErrorURL"
+												value=" " type="hidden">
+												<input
+													name="/atg/commerce/order/ShoppingCartModifier.addItemsToOrderSuccessURL"
+													value="/m/e/cart/cart.jsp?pSrc=PDP&ev=scOpen,scAdd&productId=1218957873238&skuId=8964045&checkForPlansAndAccessories=true"
+													type="hidden">
+													<input
+														name="_D:/atg/commerce/order/ShoppingCartModifier.addItemsToOrderSuccessURL"
+														value=" " type="hidden">
+														<input type="hidden" name="8964045" value="1" />
+														<input
+															name="/atg/commerce/order/ShoppingCartModifier.addItemsToOrder"
+															value="" type="hidden">
+															<input
+																name="_D:/atg/commerce/order/ShoppingCartModifier.addItemsToOrder"
+																value=" " type="hidden">
+																<div class="MarTp-10">
+																	<div class="AddToCartIMG"></div>
+																	<input type="button"
+																		onclick="IsCookiesEnabled_button('formCart8964045')"
+																		value="Add to Cart" class="AddToCartBTN" />
+																</div>
+																<input name="_DARGS"
+																	value="/m/e/product/includes/pdp_addtocart.jsp" type="hidden"></input>
+					</form>
+					<input name="8964045" type="hidden" value="1">
+						<div class="clearboth"></div><!-- 
+							O.B.changes --><!-- 
+							ends --><!-- 
+							O.B.changes --><!-- 
+							ends --><!-- 
+							O.B.changes --><!-- 
+							ends --><!-- 
+							O.B.changes --><!-- 
+							ends -->
+						<div class="btn_cont">
+							<div class="btn_col">
+								<div class="btn_div">
+									<script language="JavaScript">function showlist(){var p =
+										$("#wishlists");var position = p.offset();var
+										topValue= 0;while(p){topValue+= p.offsetTop;p=
+										p.offsetParent;}$("#divwishlist").css({ position:
+										"absolute",top:
+										topValue});$('#divwishlist').toggle();}$(window).resize(function()
+										{var p = $("#wishlists");var position =
+										p.offset();var topValue= 0;while(p){topValue+=
+										p.offsetTop;p=
+										p.offsetParent;}$("#divwishlist").css({ position:
+										"absolute",top:
+										topValue});});$(window).scroll(function () {var p
+										= $("#wishlists");var position = p.offset();var
+										topValue= 0;while(p){topValue+= p.offsetTop;p=
+										p.offsetParent;}$("#divwishlist").css({ position:
+										"absolute",top: topValue});});function
+										hidelist(){$('#divwishlist').toggle();}
+									</script>
+									<form name="addtowishlistForm"
+										action="/m/e/product/detail.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?_DARGS=/m/e/product/includes/pdp_addtowishlist.jsp"
+										method="post">
+										<input name="_dyncharset" value="ISO-8859-1" type="hidden"></input>
+										<input name="_dynSessConf" value="-4097520824905334769"
+											type="hidden"></input>
+										<div id="wishlists">
+											<a href="#">
+												<input class="btn_list" type="button" value="Wishlist"
+													onclick="IsCookiesEnabled_link('https://ssl.m.bestbuy.com:443/m/e/registration/signin.jsp?addtowishlist=true&amp;skuId=8964045&amp;pid=1218957873238','')">
+											</a>
+										</div>
+										<div id="divwishlist" class="actionsnav">
+											<a class="topwishlist wishheight btn_wishlist" onclick="javascript:hidelist();return false;"
+												href="#wish">
+												<span class="wish">Wish
+													List
+												</span>
+											</a>
+											<a class="topwishlist border-top
+anchor bottomwishlist"
+												href="https://ssl.m.bestbuy.com:443/m/e/wishlist/createoreditwishlist.jsp?action=create">Create
+												New Wish List
+											</a>
+										</div>
+										<input type="hidden" name="addToGiftListURL"
+											value="/m/e/product/detail.jsp?pid=1218957873238&skuId=8964045" />
+										<input type="hidden" name="errorURL" value="/m/e/global/error.jsp" />
+										<input type="hidden" name="prodId" value="1218957873238" />
+										<input type="hidden" name="skuId" value="8964045" />
+										<input type="hidden" name="giftlistId" value="" />
+										<input name="profileId" value="ATG19580533396" type="hidden">
+											<input name="_D:profileId" value=" " type="hidden">
+												<input name="addToGiftList" value="" type="hidden">
+													<input name="_D:addToGiftList" value=" " type="hidden">
+														<input name="_DARGS"
+															value="/m/e/product/includes/pdp_addtowishlist.jsp" type="hidden"></input>
+									</form>
+									<script>function
+										addtoGiftList(id){document.addtowishlistForm.giftlistId.value=id;document.addtowishlistForm.submit();}
+									</script>
+									<div class="clearboth"></div>
+								</div>
+							</div>
+							<div class="btn_col">
+								<div class="btn_div1">
+									<form name="CompareForm"
+										action="../product/compare/compareproducts.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?_DARGS=/m/e/product/pdpcomparebutton.jsp"
+										method="POST">
+										<input name="_dyncharset" value="ISO-8859-1" type="hidden"></input>
+										<input name="_dynSessConf" value="-4097520824905334769"
+											type="hidden"></input>
+										<input type="hidden" name="largeUrlShown"
+											value="1218957873238@1218957873238@@$brand$brand$model$model" />
+										<input type="hidden" name="brandName" value="brand" />
+										<input type="hidden" name="modelNumber" value="model" />
+										<input type="hidden" name="larHieght" value="" />
+										<input type="hidden" name="larWidth" value="" />
+										<input type="hidden" name="skuShortLabel"
+											value="Asus -
+15.6&#34; Laptop - 4GB Memory - 500GB Hard
+Drive" />
+										<input name="remove" value="Compare" class="btn_list"
+											type="submit">
+											<input name="_D:remove" value=" " type="hidden">
+												<input type="hidden" name="skuId" value="8964045" />
+												<input type="hidden" name="productId" value="1218957873238" />
+												<input
+													name="/bestbuy/digiterra/comparison/formhandler/CompareRedirectFormHandler.compareBean.compareflag"
+													value="1" type="hidden">
+													<input
+														name="_D:/bestbuy/digiterra/comparison/formhandler/CompareRedirectFormHandler.compareBean.compareflag"
+														value=" " type="hidden">
+														<input type="hidden" name="pagename" value="pdppage" />
+														<input
+															name="/bestbuy/digiterra/comparison/formhandler/CompareRedirectFormHandler.compareBean.pt"
+															value="" type="hidden">
+															<input
+																name="_D:/bestbuy/digiterra/comparison/formhandler/CompareRedirectFormHandler.compareBean.pt"
+																value=" " type="hidden">
+																<input
+																	name="/bestbuy/digiterra/comparison/formhandler/CompareRedirectFormHandler.compareBean.catId"
+																	value="abcat0502000" type="hidden">
+																	<input
+																		name="_D:/bestbuy/digiterra/comparison/formhandler/CompareRedirectFormHandler.compareBean.catId"
+																		value=" " type="hidden">
+																		<input name="_DARGS" value="/m/e/product/pdpcomparebutton.jsp"
+																			type="hidden"></input>
+									</form>
+								</div>
+							</div>
+							<div class="btn_col2">
+								<div class="btn_div2">
+									<form name="displayshareicons" method="POST" id="displayshareicons"><!-- pop up 
+											starts here --><!--<a name="modal" 
+											href="#dialog"><img src="http://images.bestbuy.com:80/BestBuy_US/mobile/images/btn_sharenew.jpg" 
+											alt="Share"></a> -->
+										<a name="modal" href="#dialog">
+											<input class="btn_list" type="button" value="Share"
+												onclick="javascript:sharepopup();">
+										</a>
+										<div id="boxes"><!-- #customize your modal window here -->
+											<div id="dialog" class="window">
+												<span class="shareHeader">
+													<b>Share this Product</b><!-- close button is defined as close 
+														class -->
+													<a href="#" class="shareproductclose
+float_right"></a>
+												</span>
+												<a title="Email Details"
+													href="https://ssl.m.bestbuy.com:443/m/e/product/includes/sendtomobile/emaildetails.jsp?skuId=8964045&pid=1218957873238">
+													<span id="pdp_email"></span>
+													Email
+												</a>
+												<a title="Twitter" target="_blank"
+													href="http://twitter.com/share?url=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2FAsus+-+15.6%26%2334%3B+Laptop+-+4GB+Memory+-+500GB+Hard+Drive+-+White+-+X502CA-BI30704A%2F8964045.p%3Fid%3D1218957873238%26skuId%3D8964045&text=Check%20this%20out%20at%20Best%20Buy!%20">
+													<span id="pdp_twitter"></span>
+													Share on Twitter
+												</a>
+												<a title="Facebook" target="_blank"
+													href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.bestbuy.com%2Fsite%2FAsus+-+15.6%26%2334%3B+Laptop+-+4GB+Memory+-+500GB+Hard+Drive+-+White+-+X502CA-BI30704A%2F8964045.p%3Fid%3D1218957873238%26skuId%3D8964045&t=Asus
+- 15.6&#34; Laptop - 4GB Memory - 500GB Hard Drive
+- White - X502CA-BI30704A">
+													<span id="pdp_facebook"></span>
+													Share on Facebook
+												</a>
+												<a title="Text Details"
+													href="https://ssl.m.bestbuy.com:443/m/e/product/includes/sendtomobile/smsdetails.jsp?skuId=8964045&pid=1218957873238">
+													<span id="pdp_text"></span>
+													SMS Text
+												</a>
+											</div>
+											<div id="mask"></div>
+										</div><!-- popup ends here -->
+									</form>
+								</div>
+							</div>
+						</div>
+						<div class="mrgnbtm27px">
+							<div id="similarProducts" style="display: none;">
+								<h2 class="pdp-section-innertitle font_normal MarTp-2
+pbot5">Similar Products</h2>
+							</div>
+						</div><!-- O.B.Changes --><!-- ends --><!-- Buy New functionality -->
+						<c:set var="isDNMType" value="false" />
+						<c:set var="isOBItem" value="false" /><!-- Buy New functionality 
+							ends -->
+						<div class="clearboth">
+						</div>
+				</div><!-- AERO 2.0 Changes Starts here --><!-- AERO 2.0 Changes Ends here -->
+				<h2 class="pdp-section-innertitle
+font_normal ptop16">Features</h2>
+				<div class="pdp-section-content PosTp2">
+					<ul class="Disc Color_Features auto-width">
+						<li class="marginbot10px font_normal">
+							<b>3rd Gen
+								Intel&#174; Core&#153; i3-3217U
+								processor
+							</b>
+							<br>Features a 3MB L3 cache and
+								1.8GHz processor speed.
+						</li>
+						<li class="marginbot10px font_normal">
+							<b>Intel&#174;
+								Core&#153; i3 processor</b>
+							<br>Features smart
+								4-way processing performance for HD quality
+								computing.
+						</li>
+						<li class="marginbot10px
+font_normal">
+							<b>4GB DDR3 memory</b>
+							<br>For
+								multitasking power.
+						</li>
+						<li class="marginbot10px
+font_normal">
+							<b>Note: Optical drive not
+								included
+							</b>
+							<br>Compatible with optional external
+								recordable CD/DVD drives (not included).
+						</li>
+						<li class="marginbot10px font_normal">
+							<b>15.6"
+								LED-backlit TFT-LCD high-definition widescreen
+								display
+							</b>
+							<br>With 1366 x 768 resolution
+								showcases movies and games in stunning
+								clarity.
+						</li>
+						<li class="marginbot10px
+font_normal">
+							<b>500GB hard drive (5400
+								rpm)
+							</b>
+							<br>Offers spacious storage and fast
+								read/write times.
+						</li>
+					</ul>
+					<p class="PosTp-2">
+						<a class="bold sku_blue"
+							href="/m/e/product/features.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?skuId=8964045&type=moreInfo&product=hardGoodPrd%3A1218957873238&id=1218957873238">View
+							Full Features
+						</a>
+					</p>
+				</div>
+				<h2 class="pdp-section-innertitle font_normal MarBtm3" id="availtitle"
+					style="display:none">Availability</h2>
+				<div id="buttons" class="pbot_quarter pleft10px">
+					<div id="availContent"><!-- O.B.changes --><!-- ends --><!-- O.B.changes --><!-- ends --><!-- O.B code for overlap sku removed from below code --><!-- ends --><!-- O.B code for overlap sku removed from below code --><!-- ends -->
+						<input name="8964045" type="hidden" value="1">
+							<div class="delivery
+ship_msg">&nbsp;
+							</div>
+							<span class="avail-method
+font_normal">
+								<b>Shipping:</b>
+								Usually leaves our
+								warehouse in 1 business day
+							</span>
+							<SCRIPT language="JavaScript">
+								spanTags =
+								document.getElementsByTagName("span");for(i=0;i
+								<spanTags.length ; i + if ( spanTags [ i ]
+									className & spanTags [ i ] className== ' red ' if ( spanTags [
+									i ] parentNode & spanTags [ i ] parentNode.parentNode &
+									spanTags [ i ] parentNode.parentNode.id & spanTags [ i ]
+									parentNode.parentNode.id== ' homeDelMsgID ' spanTags [ i ]
+									className="" ; break ;}}}
+							</SCRIPT>
+							<div class="clearboth"></div>
+							<span class="black"></span><!-- 
+								<span class="black"><a href="#storesearch" onclick="toggleBoxPDP('product-search-open','product-search-closed');changeClass('search-head','down','right');">Find 
+								in store</a></span> -->
+							<span class="black">
+							</span>
+					</div><!-- O.B changes --><!-- ends -->
+					<script>var text =
+						document.getElementById("availContent").textContent;var
+						text1 = $.trim(text);if(text1 !=
+						''){document.getElementById("availtitle").style.display
+						= 'block';}else
+						{document.getElementById("availtitle").style.display
+						= 'none';}
+					</script>
+					<div class="disp_none">
+						<div class="acquiring_location" id="acquiring_location">
+							<h3>
+								<a href="#">
+									<span class="loc_img"></span>
+								</a>
+							</h3>
+						</div>
+					</div>
+					<div class="disp_none" id="error_loc">
+					</div>
+					<form name="checkDeliveryDates"
+						action="/m/e/product/detail.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?_DARGS=/m/e/product/productdetailscenterwell.jsp"
+						method="post">
+						<input name="_dyncharset" value="ISO-8859-1" type="hidden"></input>
+						<input name="_dynSessConf" value="-4097520824905334769"
+							type="hidden"></input>
+						<input type="hidden" name="requestFrom" value="mobile" />
+						<input type="hidden" name="mobileType" value="enhanced" />
+						<input type="hidden" name="skuId" id="skuId" value='8964045' />
+						<input type="hidden" name="pid" id="pid" value='1218957873238' />
+						<input name="itemID" value="2048270" type="hidden">
+							<input name="_D:itemID" value=" " type="hidden">
+								<input
+									name="/bestbuy/digiterra/commerce/order/formhandler/CheckHomeDeliveryFormHandler.listingType"
+									value="" type="hidden">
+									<input
+										name="_D:/bestbuy/digiterra/commerce/order/formhandler/CheckHomeDeliveryFormHandler.listingType"
+										value=" " type="hidden">
+										<input
+											name="/bestbuy/digiterra/commerce/order/formhandler/CheckHomeDeliveryFormHandler.checkHomeDelivery"
+											value="dummy" type="hidden">
+											<input
+												name="_D:/bestbuy/digiterra/commerce/order/formhandler/CheckHomeDeliveryFormHandler.checkHomeDelivery"
+												value=" " type="hidden">
+												<input name="_DARGS"
+													value="/m/e/product/productdetailscenterwell.jsp" type="hidden"></input>
+					</form>
+					<div class="disp_none">
+						<head>
+							<link
+								href="http://images.bestbuy.com:80/BestBuy_US/mobile/style/main_enhanced_optimized-min.css"
+								rel="stylesheet" type="text/css" media="handheld,screen" />
+							<link
+								href="http://images.bestbuy.com:80/BestBuy_US/mobile/style/m_common-min.css"
+								rel="stylesheet" type="text/css" media="handheld,screen" />
+						</head>
+						<script language="JavaScript">var hasClicked =
+							false;
+						</script>
+						<form name="frmStoreLocatorzip"
+							action="/m/e/product/detail.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?_DARGS=/m/e/product/checkstoresajax.jsp.frmzipId"
+							method="POST">
+							<input name="_dyncharset" value="ISO-8859-1" type="hidden"></input>
+							<input name="_dynSessConf" value="-4097520824905334769"
+								type="hidden"></input>
+							<input
+								name="/bestbuy/digiterra/commerce/order/processor/CartSessionValues.storeInputData.inputData.city"
+								value="" type="hidden">
+								<input
+									name="_D:/bestbuy/digiterra/commerce/order/processor/CartSessionValues.storeInputData.inputData.city"
+									value=" " type="hidden">
+									<input
+										name="/bestbuy/digiterra/commerce/order/processor/CartSessionValues.storeInputData.inputData.state"
+										value="" type="hidden">
+										<input
+											name="_D:/bestbuy/digiterra/commerce/order/processor/CartSessionValues.storeInputData.inputData.state"
+											value=" " type="hidden">
+											<input type="hidden" name="TxtCity" value="" />
+											<input type="hidden" name="DrpState" value="" />
+											<input type="hidden" id="pid" name="pid" value="1218957873238" />
+											<input type="hidden" id="skuId" name="skuId" value="8964045" />
+											<input type="hidden" name="warehouseAtpCall" value="false" />
+											<input type="hidden" name="applianceSku" value="false" />
+											<input
+												name="/bestbuy/digiterra/commerce/order/formhandler/CartQuickStoresFormHandler.refreshURL"
+												value="/m/e/product/includes/storelocator/getpdpstoreresults.jsp?skuId=8964045&pid=1218957873238"
+												type="hidden">
+												<input
+													name="_D:/bestbuy/digiterra/commerce/order/formhandler/CartQuickStoresFormHandler.refreshURL"
+													value=" " type="hidden">
+													<input id="storeZipCode" title="Store Locator"
+														maxlength="5" name="TxtZipCode" value="" class="txt_inputSmall"
+														type="number" accesskey="1" size="25">
+														<input name="_D:TxtZipCode" value=" " type="hidden">
+															<input
+																name="/bestbuy/digiterra/commerce/order/formhandler/CartQuickStoresFormHandler.storeSearch"
+																value="Go" class="btn-go" type="submit">
+																<input
+																	name="_D:/bestbuy/digiterra/commerce/order/formhandler/CartQuickStoresFormHandler.storeSearch"
+																	value=" " type="hidden">
+																	<input name="_DARGS"
+																		value="/m/e/product/checkstoresajax.jsp.frmzipId"
+																		type="hidden"></input>
+						</form>
+						<div class="acquiring_location" id="acquiring_location">
+							<h3>
+								<a href="#">
+									<span class="loc_img"></span>
+								</a>
+							</h3>
+						</div>
+					</div>
+					<div class="store">
+						<span class="avail-method bold
+MarginTp7">Store Pickup:</span>
+						<br>
+							<a onclick="javascript:geoLocation('checkstores','','');"
+								href="storesearch.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?skuId=8964045&cl=y&pid=1218957873238&command=ajaxcall">
+								<span class="bold bby_blue Arial fnt15 cursor">Check
+									Stores
+								</span>
+							</a>
+					</div>
+					<div class="clearboth"></div>
+				</div>
+				<h2 class="pdp-section-innertitle
+font_normal">Offers</h2>
+				<ul id="CardHolderOffers" class="MarBtm-5px">
+					<li class="avail-detail pTop3
+Imp">
+						<span class="avail-method bold"><!-- fl55 -->
+							Best Buy Cardholder Offers:
+						</span>
+					</li>
+					<li class="fsdiofferlink ">
+						<a class="bold  Arial fnt15
+bby_blue"
+							href="/m/e/common/offerDetails.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?pid=1218957873238&skuId=8964045&page=pdp&icrPrice=true">6-Month
+							Financing
+						</a>
+					</li>
+					<div class="ht5"></div>
+					<li class="fsdiofferlink ">
+						<a class="bold Arial fnt15
+bby_blue"
+							href="/m/e/common/creditCardOffers.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?pid=1218957873238&skuId=8964045&hideTBPSavings=true&page=pdp&icrPrice=true"><!--fl92 -->
+							Get
+							5% Back in Rewards: See How
+						</a>
+					</li>
+					<div class="ht5"></div>
+				</ul>
+				<h2 class="pdp-section-innertitle font_normal
+MarginTop5 padbtm2">More</h2>
+				<ul class="detail-list">
+					<li>
+						<a class="detail-name
+bold"
+							href="/m/e/product/reviews.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?skuId=8964045&pid=1218957873238">Reviews(4)</a>
+						<div class="rating-stars-info">
+							<div class="rating-stars
+">
+								<div class="rating-filler" style="width: 76.0%
+"></div>&nbsp;
+								<div class="rating-mask"></div>
+							</div>
+							<div class="rating-stars ">
+								<div class="rating-filler" style="width: 76.0% "></div>&nbsp;
+								<div class="rating-mask"></div>
+							</div>
+						</div>
+					</li>
+					<li>
+						<a class="detail-name bold"
+							href="/m/e/product/features.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?skuId=8964045&pid=1218957873238&type=moreInfo">Features</a>
+					</li>
+					<li>
+						<a class="detail-name bold"
+							href="/m/e/product/specifications.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?skuId=8964045&pid=1218957873238">
+							TechnicalSpecifications
+						</a>
+					</li>
+					<input type="hidden" id="srcPage" value="pdp" />
+					<li id="accessoriesblock" style="display:none">
+						<a class="bold detail-name"
+							href="/m/e/product/accessories.jsp;jsessionid=4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106?skuId=8964045&pid=1218957873238">Accessories</a>
+					</li>
+				</ul>
+				<input type="hidden" id="customeralsoviewedurl"
+					value="http://context.bestbuy.com/api/item/8964045/alsoviewed.json?apiKey=MDT:YjlxZ0NtcXppbE1qZnh2VDU4ZFN2SGZxQXQ4WlJ5UnhtRmlsR2xQZmhLRT0=&pageSize=3&productInfo=intermediate" />
+				<input type="hidden" id="alsoboughturl8964045" name="8964045"
+					value="http://context.bestbuy.com/api/item/8964045/alsobought.json?apiKey=MDT:YjlxZ0NtcXppbE1qZnh2VDU4ZFN2SGZxQXQ4WlJ5UnhtRmlsR2xQZmhLRT0=&pageSize=3&productInfo=intermediate" />
+				<input type="hidden" id="accessoriesUrl8964045" name="8964045"
+					value="http://api.enterpriseproduct.bestbuy.com/v2/products(relatedItems.type=accessories&sku=8964045)?show=sku,name,relatedItems,relatedItems.attributes.productId,relatedItems.attributes.active,relatedItems.attributes.image,relatedItems.attributes.name,relatedItems.attributes.customerReviewAverage,relatedItems.attributes.customerReviewCount,relatedItems.attributes.salePrice,relatedItems.attributes.regularPrice,relatedItems.attributes.onSale,relatedItems.attributes.icrType,relatedItems.attributes.priceRestriction,relatedItems.attributes.priceWithPlan,relatedItems.attributes.dollarSavings,relatedItems.attributes.mobileUrl&format=json&apiKey=qpkux3e4mcsvk9z292dyggxv" />
+				<div id="error-log"></div>
+				<input type="hidden" id="timeout" value="1500" />
+				<input type="hidden" id="imageServerUrl" value="http://m-pisces.bbystatic.com/" /><!--1219043978641 -->
+				<input type="hidden" id="epRecentlyViewed" value="true">
+					<input type="hidden" id="epRecommended" value="true">
+						<input type="hidden" id="epAlsoViewed" value="true">
+							<input type="hidden" id="epAlsoBought" value="true">
+								<input type="hidden" id="epMostPopular" value="true">
+									<input type="hidden" id="epAccessories" value="true">
+										<input type="hidden" id="epPriceBlock" value="true">
+											<input type="hidden" id="epSimilarProducts" value="true"><!--/1219043978641 -->
+												<div class="mrgnbtm27px">
+													<div id="alsoViewed" style="display: none;">
+														<h2 class="pdp-section-innertitle font_normal MarTp-2
+pbot5">Customers Also Viewed</h2>
+														<input type="hidden" id="pdpurl" value="/m/e/product/detail.jsp?" />
+													</div>
+												</div>
+												<div id="ICRboxes">
+													<div class="window" id="pricedialog" style="display: none;">
+														<span class="shareHeader
+fontalign fnt16">
+															Pricing FAQ
+															<a class="shareproductclose float_right" href="#"
+																onclick="closemask()"></a>
+														</span>
+														<div class="pad10"><!--pt14 -->
+															<h4 style="font-size:
+13px;">Why don&#39;t we show the price?</h4>
+															<p>As
+																a retailer, we set our own prices independently,
+																but some manufacturers restrict how we may
+																communicate those prices. In some cases the
+																manufacturer does not allow us to show you our
+																price until you take further action. Don't worry;
+																you can remove the item from your cart if you
+																decide not to buy it.
+															</p>
+															<h4 style="font-size:
+13px;">To see the price:</h4>
+															<p>Add the item to
+																your cart, then click
+																Checkout.
+															</p>
+														</div>
+													</div>
+												</div>
+												<!--1218315355723 -->
+												<script type="text/javascript"> window.onload=function() {
+													Delete_Cookie('JSESSIONID','/','.bestbuy.com'); }
+													/* Functions for storing, retrieving and deleting
+													cookies */ // this fixes an issue with the old
+													method, ambiguous values // with this test
+													document.cookie.indexOf( name + "=" ); function
+													Get_Cookie( check_name ) { // first we'll split
+													this cookie up into name/value pairs // note:
+													document.cookie only returns name=value, not the
+													other components var a_all_cookies =
+													document.cookie.split( ';' ); var a_temp_cookie =
+													''; var cookie_name = ''; var cookie_value = '';
+													var b_cookie_found = false; // set boolean t/f
+													default f for ( i = 0; i < a_all_cookies.length;
+													i++ ) { // now we'll split apart each name=value
+													pair a_temp_cookie = a_all_cookies[i].split( '='
+													); // and trim left/right whitespace while we're
+													at it cookie_name =
+													a_temp_cookie[0].replace(/^\s+|\s+$/g, ''); // if
+													the extracted name matches passed check_name if (
+													cookie_name == check_name ) { b_cookie_found =
+													true; // we need to handle case where cookie has
+													no value but exists (no = sign, that is): if (
+													a_temp_cookie.length > 1 ) { cookie_value =
+													unescape( a_temp_cookie[1].replace(/^\s+|\s+$/g,
+													'') ); } // note that in cases where cookie is
+													initialized but no value, null is returned return
+													cookie_value; break; } a_temp_cookie = null;
+													cookie_name = ''; } if ( !b_cookie_found ) {
+													return null; } } // this deletes the cookie when
+													called function Delete_Cookie( name, path, domain
+													) { //alert(name + '\n' + path + '\n' + domain);
+													if ( Get_Cookie( name ) ) document.cookie = name +
+													"=" + ( ( path ) ? ";path=" + path : "") + ( (
+													domain ) ? ";domain=" + domain : "" ) +
+													";expires=Thu, 01-Jan-1970 00:00:01 GMT"; }
+												</script> <!-- On Sale removal -->
+												<script> var
+													myarray =
+													['9952387','9955775','9955811','9955839','1209634','1209734','9952305','2658101','2658095','2658086','2658077','9944833','9755322','9755395','1535836','1535845','1535918','1534115','1535123','9944942','9944951','9119759','1455039','1946197','3108172','3109047','3108109','3108136','2658129','2658068','3827134','3827152','3827161','4760675','4775273','4775291','4775307','5430505','5430514','5430532'];
+													if(jQuery.inArray(abskuid, myarray)>-1) {
+													$("#sale").remove(); }
+												</script>
+												<script> var
+													myarray = ['5681754', '5682283', '5622829',
+													'5622792', '5709727', '5682256', '5763851',
+													'5763788', '5763806', '5763236', '5772228',
+													'5772237']; if(jQuery.inArray(abskuid,
+													myarray)>-1) {
+													$("#pdp-left").children().children(".MarTp3.PriceWidth").remove();
+													}
+												</script> <!--/1218315355723 --><!-- 1218586490038 --> <!-- abtesting start -->
+												<script type="text/javascript"> var sysdt = '08/07/2013';
+												</script>
+												<script> var imgServer =
+													'http://images.bestbuy.com:80/BestBuy_US/';
+												</script>
+												<script type="text/javascript"
+													src="http://images.bestbuy.com:80/BestBuy_US/js/bbymdot.js" />
+												<script type="text/javascript">
+													bby.fireDelayedQueue();
+												</script> <!-- CHANGING THE CONTENT FOR FIX START --> <!-- CHANGING THE CONTENT FOR FIX END --> <!-- /1218586490038 -->
+			</section>
+			<footer id="colophon"><!-- Removing search in Footer as a part of MDOT-6412 
+					starts here -->
+				<ul class="footer-list">
+					<li>
+						<a href="/m/e/digital/" class="footer-name">Home</a>
+					</li>
+					<li>
+						<a class="footer-name"
+							href="https://ssl.m.bestbuy.com:443/m/e/registration/signin.jsp?loadOptimizedCSS=true">Sign
+							In
+						</a>
+					</li>
+					<li>
+						<a href='#' class="footer-name"
+							onclick="IsCookiesEnabled_link('https://ssl.m.bestbuy.com:443/m/e/registration/signin.jsp?fromMyAccount=true')">
+							My Account</a>
+					</li>
+					<li>
+						<a target="_blank" class="footer-name"
+							href="http://www.bestbuy.com/site/null/Credit-Cards/pcmcat102500050032.c?id=pcmcat102500050032">BBY
+							Credit Cards
+						</a>
+					</li>
+					<li>
+						<a class="footer-name" href="#"
+							onclick="IsCookiesEnabled_link('https://ssl.m.bestbuy.com:443/m/e/myaccount/orderstatus.jsp')">View
+							Order Status
+						</a>
+					</li>
+					<li>
+						<a
+							href='https://ssl.m.bestbuy.com:443/m/e/giftcard/giftcardbalance.jsp'
+							class="footer-name">Gift Card
+							Balance
+						</a>
+					</li>
+					<li>
+						<a class="footer-name"
+							href="http://m.bestbuy.com:80/m/e/promotion.jsp?id=pcmcat302300050018">Help</a>
+					</li>
+				</ul>
+				<div class="footer-meta">
+					<p>Prices on this site are the
+						same as those on BestBuy.com. Prices may vary in
+						store. All prices and offers are subject to
+						change. In store availability subject to change.
+						Orders placed for store pickup may take up to 45
+						minutes to process.
+					</p>
+					<p>&copy;2003-2013BBY
+						Solutions, Inc.
+					</p>
+				</div>
+				<div class="footer-links">
+					<a href="http://www.bestbuy.com/terms">Terms</a>
+					<a href="http://www.bestbuy.com/privacy">Privacy</a>
+					<a
+						href="http://www.bestbuy.com/site/Help-Topics/California-Privacy-Rights/pcmcat204400050063.c?id=pcmcat204400050063">California
+						Privacy Rights
+					</a>
+					<a target="_blank" href="https://secure.opinionlab.com/ccc01/o.asp?id=BMMkoplJ">Feedback</a>
+					<a href="http://www.bestbuy.com?redirect=no">Desktop
+						Site
+					</a>
+				</div>
+			</footer>
+		</section>
+			<div id="skuId" class="disp_none">8964045</div>
+			<div id="pId" class="disp_none">1218957873238</div>
+			<div id="positionId" class="disp_none"></div>
+			<script type="text/javascript">var b = 0;var length =
+				0;var slider = new
+				Swipe(document.getElementById('prodImgCell'),
+				{callback: function(e, pos) {b = pos + 1;var i =
+				bullets.length;length =
+				bullets.length;img2Fetch=slider.index;if(document.getElementById('imagenumber')!=null){document.getElementById('imagenumber').innerHTML=img2Fetch+1;}if(document.getElementById('imageNo'+img2Fetch))
+				{replaceWithImg(img2Fetch);};}}),bullets =
+				document.getElementById('position').getElementsByTagName('em');$(".LtSlider").click(function
+				(a)
+				{a.preventDefault();slider.prev()});$(".RtSlider").click(function
+				(a) {a.preventDefault();slider.next()});function
+				replaceWithImg(img2Fetch) {var skuId =
+				document.getElementById('skuId').innerHTML;var pId
+				=
+				document.getElementById('pId').innerHTML;makeRequest("/m/e/product/pdpimage.jsp?skuId="+
+				skuId + "&pid=" + pId + "&imageNo="+ img2Fetch +
+				"&pageSrc=PDP_PAGE",'GET', null, null,
+				'PDP_PAGE');}</script>
+			<script>
+				var myarray = [
+				'9952387', '9955775', '9955811','9955839',
+				'1209634', '1209734', '9952305','2658101',
+				'2658095', '2658086', '2658077','9944833',
+				'9755322', '9755395', '1535836','1535845',
+				'1535918', '1534115', '1535123','9944942',
+				'9944951', '9119759', '1455039','1946197',
+				'3108172', '3109047', '3108109','3108136',
+				'2658129', '2658068', '3827134','3827152',
+				'3827161', '4760675', '4775273','4775291',
+				'4775307', '5430505', '5430514','5430532' ];if
+				(jQuery.inArray(abskuid, myarray) > -1)
+				{$("#sale").remove();$("#pdp-right").children().children().children('span.tapprice').wrapAll('
+				<span class="striked" />
+				');}
+			</script>
+			<script>var myarray
+				= [ '5681754', '5682283', '5622829','5622792',
+				'5709727', '5682256', '5763851','5763788',
+				'5763806', '5763236', '5772228','5772237' ];if
+				(jQuery.inArray(abskuid, myarray) > -1)
+				{$("#pdp-left").children().children(".MarTp3.PriceWidth").remove();}
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/m_ajax-min.js"
+				type="text/javascript">
+			</script>
+			<script
+				src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/common-min.js"
+				type="text/javascript">
+			</script>
+			<script language="javascript">function
+				showPriceDetails(id){var b =
+				document.getElementById("priceValue"+ id);var a =
+				document.getElementById("priceHidden"+
+				id);a.style.display="none";b.style.display="block"}
+			</script>
+		</body><!-- End Productdetails.jsp -->
+		<img
+			src="http://context.bestbuy.com/_.gif?action=pageView&itemType=product&src=MobileWeb&itemId=8964045&path=http%3A%2F%2Fm.bestbuy.com%2Fm%2Fe%2Fproduct%2Fdetail.jsp%3Bjsessionid%3D4D903CF9C4476BEE28A89490A9D4B1F8.bbmdotp-app34-106%3FskuId%3D8964045&randomNumber=12417022434"
+			alt="" width="5" height="5" style="display: none" />
+		<iframe name="__bkframe" height="0" width="0" frameborder="0"
+			src="javascript:void(0)"></iframe>
+		<script type="text/javascript" src="http://tags.bkrtx.com/js/bk-coretag.js"></script>
+		<script type="text/javascript">bk_addPageCtx("rec",
+			"Recognized");bk_addPageCtx("sku",
+			"8964045");bk_ignore_meta =
+			true;bk_doJSTag(15319,10);
+		</script>
+		<script type="text/javascript">var img = new
+			Image();img.height="1";img.width="1";img.src =
+			encodeURI("http://view.atdmt.com/action/mobile_bestbuy_homepage/v3/recognized.Recognized/profileId.ATG19580533396/skuId.8964045");document.body.appendChild(img);
+		</script>
+		<script
+			src="http://images.bestbuy.com:80/BestBuy_US/mobile/scripts/omnitureProd/s_code.js"
+			type="text/javascript">
+		</script>
+		<script language="JavaScript" type="text/javascript"><!--/* You may give each page 
+				an identifying name, server, and channel onthe next lines. */s.pageName="Pdp";s.server=""s.channel="Enhanced";s.pageType=""s.prop16="";s.prop45=""s.prop49="ATG19580533396";/* 
+				Conversion Variables */s.campaign=""s.state=""s.zip=""s.events="prodView,event3";s.products=";8964045"s.purchaseID="";s.eVar8=""s.eVar16="";s.eVar45=""s.eVar49="ATG19580533396";s.eVar57="08/07/2013 
+				01:51:11 PM";/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/var 
+				s_code=s.t();if(s_code)document.write(s_code)// -->
+		</script>
+		<script language="JavaScript" type="text/javascript"><!--if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')// -->
+		</script>
+		<noscript>
+			<img src="http://bestbuy.122.2o7.net/b/ss/bbymobileprod/1/H.25.2--NS/0"
+				height="1" width="1" border="0" alt="" />
+		</noscript><!--/DO NOT REMOVE/ --><!-- End SiteCatalyst code version: H.25.2. -->
+	</body>
+</html>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/dotcom/!svn/ver/167488/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/testcaserunner
+END
+DataResourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dotcom/!svn/ver/165430/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/testcaserunner/DataResourceHandler.java
+END
+RunStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/dotcom/!svn/ver/166207/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/testcaserunner/RunStep.java
+END
+StepValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dotcom/!svn/ver/166617/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/testcaserunner/StepValidator.java
+END
+TestcaseRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dotcom/!svn/ver/167488/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/testcaserunner/TestcaseRunner.java
+END
+TestcaseStepHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/dotcom/!svn/ver/167487/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/testcaserunner/TestcaseStepHandler.java
+END
+SeleniumCtrls.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/dotcom/!svn/ver/166348/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/testcaserunner/SeleniumCtrls.java
+END

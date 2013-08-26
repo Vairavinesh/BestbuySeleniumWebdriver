@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dotcom/!svn/ver/167494/test-data-management/trunk/test-utaf
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dotcom/!svn/ver/166207/test-data-management/trunk/test-utaf/pom.xml
+END

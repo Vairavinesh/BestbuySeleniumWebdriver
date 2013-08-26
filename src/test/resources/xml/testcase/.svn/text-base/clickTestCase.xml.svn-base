@@ -1,0 +1,27 @@
+<testcase xmlns="http://www.tdm.org/testcase">
+	<test application="mdot" create_date="2013-08-14" created_by="Jeswanth"
+		last_updated="2013-08-15" updated_by="Jeswanth">tc1</test>
+	<teststeps xmlns="http://www.tdm.org/teststeps">
+		<step xmlns="http://www.tdm.org/step" action="select_url"
+			control="browser" url="mdothome_url" />
+		<step xmlns="http://www.tdm.org/step" action="set"
+			data_input="/Users/a922998/TestEng/test-utaf/src/test/resources/xml/dataresource/tc1-sku-7952226.xml"
+			data_key="data" element_data="xpath" element_type="textbox"
+			xpath=".//*[@id='textfield']" />
+		<step xmlns="http://www.tdm.org/step" action="click"
+			element_data="lookup" element_location="header" element_name="search-submit"
+			element_type="button" page_name="search" />
+		<step xmlns="http://www.tdm.org/step" action="validate_text"
+			element_data="xpath" element_type="text"
+			text="Microsoft - Surface Pro with 64GB Memory" xpath=".//*[@id='content']/ul/div/div/div[2]/div[1]/a/span">
+		</step>
+		<step xmlns="http://www.tdm.org/step" action="validate_url">
+			<expected_results xmlns="http://www.tdm.org/expected_results">
+				<url>http://m.qa.bestbuy.com/m/e/search/results.jsp#searchresultsdiv</url>
+			</expected_results>
+		</step>
+		<step xmlns="http://www.tdm.org/step" action="validate_label"
+			element_data="lookup" element_location="header" element_name="btn_search_tools"
+			element_type="submit" page_name="search" text="Narrow Results" />
+	</teststeps>
+</testcase>

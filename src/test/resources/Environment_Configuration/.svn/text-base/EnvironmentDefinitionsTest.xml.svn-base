@@ -1,0 +1,12 @@
+<properties>
+	<entry key="QA1" active="true">
+		<property name="firefox_path">/usr/local/bin/firefox701_for_fta</property>
+		<property name="start_url">http://m.qa.bestbuy.com/m/e</property>
+		<property name="db_url">jdbc:oracle:thin:@dldolsdb01:1525:od1pcm01cle:thin:@dldolsdb01:1525:od1pcm01ty</property>
+		<property name="signin_url">https://ssl.m.bestbuy.com/m/e/registration/signin.jsp?loadOptimizedCSS=true</property>
+	</entry>
+	<entry key="QA2" active="false">
+		<property name="start_url">http://m-qa2.bestbuy.com/m/e/</property>
+		<property name="db_url">jdbc:oracle:thin:@dlqolsdb01:1531:oq3atg_01cle:thin:@dlqolsdb01:1531:oq3atg_01ty></property>
+	</entry>
+</properties>

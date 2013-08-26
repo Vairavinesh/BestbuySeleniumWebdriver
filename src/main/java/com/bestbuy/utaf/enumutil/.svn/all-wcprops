@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dotcom/!svn/ver/167482/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/enumutil
+END
+DataTypeSelectorEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/dotcom/!svn/ver/167436/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/enumutil/DataTypeSelectorEnum.java
+END
+ActionControlsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/dotcom/!svn/ver/166617/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/enumutil/ActionControlsEnum.java
+END
+SelectBrowserEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/enumutil/SelectBrowserEnum.java
+END
+ExpectedResultsSelectorEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/dotcom/!svn/ver/165430/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/enumutil/ExpectedResultsSelectorEnum.java
+END
+PageSourceMetaDataXpathSelectorEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/dotcom/!svn/ver/167482/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/enumutil/PageSourceMetaDataXpathSelectorEnum.java
+END
+StepRunnerControlsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/dotcom/!svn/ver/165985/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/enumutil/StepRunnerControlsEnum.java
+END

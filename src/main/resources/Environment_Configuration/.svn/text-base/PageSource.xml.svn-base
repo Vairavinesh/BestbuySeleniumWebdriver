@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<pagesourceurllist>
+	<url name = "PDP" type ="pagesource,hidden,tooltip">http://m.bestbuy.com/m/e/product/detail.jsp?skuId=8964045</url>
+	<url name = "PLP" type ="pagesource">http://mdeals.bestbuy.com/categories</url>
+	<url name = "Checkout" type ="pagesource">https://ssl.m.bestbuy.com/m/e/checkout/checkouttriage.jsp</url>
+	<url name = "BillingAddress" type ="pagesource">https://ssl.m.bestbuy.com/m/e/checkout/createbillingaddress.jsp?id=pcat17008</url>
+	<url name = "Shipping" type ="pagesource">https://ssl.m.bestbuy.com/m/e/checkout/shippickup.jsp?id=pcat17009</url>
+	<url name = "PaymentPage" type ="pagesource,hidden">https://ssl.m.bestbuy.com/m/e/checkout/payinfo.jsp?_requestid=249405</url>
+	<url name = "ReviewAndSubmit" type ="pagesource,hidden">https://ssl.m.bestbuy.com/m/e/checkout/review.jsp?userStatus=noneExists&amp;_requestid=249422</url>
+	<url name = "ThankYou" type ="pagesource,hidden">https://ssl.m.bestbuy.com/m/e/checkout/thankyou.jsp?_requestid=249431</url>
+	<url name = "BBYtooltip" type ="tooltip">http://www.bestbuy.com/site/TV-Video/Televisions/abcat0101000.c?id=abcat0101000&amp;pageType=REDIRECT&amp;issolr=1&amp;searchterm=tv</url>
+	<url name = "Pagination" type ="pagesource">http://www.bestbuy.com/site/Televisions/LCD-TVs/pcmcat193400050017.c?id=pcmcat193400050017</url>
+    <url name = "popup" type ="lightbox">http://www.bestbuy.com/site/olspage.jsp?productId=1218671114012&amp;skuId=5606251&amp;sellerId=&amp;isHaccs=true&amp;isMap=false&amp;isIcr=false&amp;availabilityType=addToCart&amp;id=pcat18005&amp;type=page</url>
+<url name = "newtry" type ="lightbox">http://www.bestbuy.com/site/olspage.jsp?productId=1218666525649&amp;skuId=5578649&amp;sellerId=&amp;isHaccs=true&amp;isMap=false&amp;isIcr=true&amp;availabilityType=addToCart&amp;id=pcat18005&amp;type=page</url>
+</pagesourceurllist>

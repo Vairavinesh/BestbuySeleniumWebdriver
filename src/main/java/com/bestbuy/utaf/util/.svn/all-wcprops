@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dotcom/!svn/ver/167485/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/util
+END
+DriverProps.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/util/DriverProps.java
+END
+LocalFileIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dotcom/!svn/ver/166136/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/util/LocalFileIO.java
+END
+HtmlClean.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dotcom/!svn/ver/166137/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/util/HtmlClean.java
+END
+AjaxWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dotcom/!svn/ver/165169/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/util/AjaxWait.java
+END
+PageSourceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/dotcom/!svn/ver/167485/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/util/PageSourceConstants.java
+END
+UtafConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dotcom/!svn/ver/166329/test-data-management/trunk/test-utaf/src/main/java/com/bestbuy/utaf/util/UtafConstants.java
+END

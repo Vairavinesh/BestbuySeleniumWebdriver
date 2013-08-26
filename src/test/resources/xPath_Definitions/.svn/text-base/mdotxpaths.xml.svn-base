@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE pages [
+  <!ENTITY CASEINSENSATIVE "translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
+			'abcdefghijklmnopqrstuvwxyz')">
+		
+  <!ENTITY contentbase "//*/a[@class='content_block']//*/div[contains(@class, 'link') and contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ','abcdefghijklmnopqrstuvwxyz'), '~nameVar~')]">
+ <!ENTITY searchbase "//*/section[@id='content']">
+ <!ENTITY bannerbase "//*/div[@class='~idVar~Banner']">
+ 
+]>
+<pages>
+	<page name="mdothome">
+		<xpath id='homepersonalizelink'>//*/a[@class='home_personalize' and	contains(text(),'~idVar~')]</xpath>
+		<xpath id='contenttitlelink'>&contentbase;</xpath>
+		<xpath id='contentmeta'>&contentbase;/..//*/div[contains(@class, 'meta')]</xpath>
+		<xpath id='contentshoplink'>&contentbase;/..//*/div[@class='link']</xpath>
+		<xpath id='contentimg'>&contentbase;/../..//*/img</xpath>
+	</page>
+	<page name="common">
+		<xpath id='link' footerLoc="footer/*" headerLoc="div[contains(@id, 'header')]/">//*/~locationVar~//*/li[@id='~idVar~-link']/a[contains(&CASEINSENSATIVE;,'~nameVar~')]</xpath>
+		<xpath id='listlink'>//*/a[contains(@class,'~locationVar~') and	contains(&CASEINSENSATIVE;, '~nameVar~')]</xpath>
+		<xpath id='textbox' footerLoc="footer/*" headerLoc="div[contains(@id, 'header')]/">//*/~locationVar~/*/input[@id='textfield' and contains(@class, '~idVar~')]</xpath>
+		<xpath id='textboxclear' footerLoc="footer/*" headerLoc="div[contains(@id, 'header')]/">//*/~locationVar~/*/a[@href='#clear']</xpath>
+		<xpath id='button' footerLoc="footer/*" headerLoc="div[contains(@id, 'header')]/">//*/~locationVar~/*/input[contains(@class, '~idVar~') and @href='#']</xpath>
+		<xpath id='banner'>&bannerbase;</xpath>
+		<xpath id='image'>/~anyLevel~/img</xpath>
+		<xpath id='bannerurl'>&bannerbase;/*/a</xpath>
+		<xpath id='footername'>//*/a[@class='footer-name']</xpath>
+		<xpath id='footermeta'>//*/div[@class='footer-meta']/p</xpath>
+		<xpath id='footerlinks'>//*/div[@class='footer-links']/a</xpath>
+		<xpath id='searchresults'>&searchbase;</xpath>
+		<xpath id='sortby'>//*/div[@id='search_options']</xpath>
+		<xpath id='bestselling'>&searchbase;/option[]</xpath>
+		<xpath id='searchcount'>&searchbase;/~locationVar~/div[contains(@class, 'count')]</xpath>
+		<xpath id='list'>//*/div[contains(@class, '~nameVar~')]</xpath>
+		<xpath id='resultCount'>//*div[@class='results_count']</xpath>
+		<xpath id='more'>//*/input[@type='button' and contains(@value, '~nameVar')]</xpath>
+	</page>
+</pages>

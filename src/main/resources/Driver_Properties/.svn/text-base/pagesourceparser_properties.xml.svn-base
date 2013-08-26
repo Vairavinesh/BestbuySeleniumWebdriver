@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+	<comment>main Driver properties
+	To validate all solr and magellan files set stopFile to all.
+	Note: All Delta files are validated by default.</comment>
+	<entry key="linkXpPath">//*[contains(@id, 'link') or contains(@class, 'link')]</entry>
+</properties>
